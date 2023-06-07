@@ -88,5 +88,3 @@ Calculate the following metrics for each school type:
 
 ## Observable Trends
 Provide a written description of at least two observable trends based on the analysis of the school district data.
-
-Note: This README file provides an overview of the project and the actions taken. For more specific details, please refer to the project files and the Jupyter Notebook included in the shared link.
